@@ -1,0 +1,31 @@
+# Node.js
+node_modules/
+
+# TypeScript
+/dist/
+*.tsbuildinfo
+
+# Environment variables
+.env
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional: ignore the build output (if you are using a build tool)
+build/
+
+# Ignore IDE files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Coverage directory (if you use a testing framework like Jest)
+coverage/
+
+# TypeScript declaration files
+*.d.ts
